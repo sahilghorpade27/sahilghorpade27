@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sahilpg27@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1dPigrDtHORtVBBi8SVQhI3SdBsj4SVKH?usp=drive_link]([https://drive.google.com/drive/folders/1dPigrDtHORtVBBi8SVQhI3SdBsj4SVKH?usp=drive_link](https://drive.google.com/drive/folders/1jAhIdI4kHBUWppOj6kkLbUfy3Ol8q5GY))
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1dPigrDtHORtVBBi8SVQhI3SdBsj4SVKH?usp=drive_link]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
