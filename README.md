@@ -25,7 +25,7 @@ const sahil = {
 ```
 
 🔥 **Recent Achievement**: Completed Software Engineering Internship at **Qualys Security TechServices**  
-🎯 **Specialized in**: Backend Microservices, Policy Compliance Systems, and Search Optimization  
+🎯 **Experienced in**: Backend Microservices and Policy Compliance Systems  
 🌱 **Currently Learning**: Advanced React, System Design, Real-Time APIs  
 
 ---
