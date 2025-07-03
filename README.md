@@ -38,12 +38,13 @@ const sahil = {
 <div align="left">
   
 🔧 **Key Achievements:**
-- Built **Policy Compliance Aggregator Service** - a scalable backend microservice
-- Optimized search performance by creating advanced **index mappings**
-- Mastered **Elasticsearch** & **OpenSearch** for large-scale data handling
+- Contributed to the development of **Policy Compliance Aggregator Service** – a scalable backend microservice  
+- Optimized search performance by implementing advanced **index mappings**  
+- Gained hands-on experience with **Elasticsearch** & **OpenSearch** for large-scale data handling  
 - Improved compliance data retrieval efficiency by **40%+**
 
 </div>
+
 
 ---
 
