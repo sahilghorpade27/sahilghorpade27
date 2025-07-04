@@ -1,4 +1,4 @@
-# <div align="center">🚀 **Sahil Ghorpade** | Software Developer & Problem Solver 🚀</div>
+# <div align="center">🚀 **Sahil Ghorpade** 🚀</div>
 
 <div align="center">
   
